@@ -11,7 +11,7 @@ chaos-isi-analysis/
 ├── docs/                  # Metric explanations
 ├── README.md              # Landing page
 ├── requirements.txt       # Python dependencies
-├── Synthetic Data/        # benchmarking synthetic signals and metrics
+├── benchmarking/        # benchmarking synthetic signals and metrics
 ```
 
 ## 🔍 Pipeline Overview
@@ -21,7 +21,7 @@ chaos-isi-analysis/
    - `extract_task_irrelevant.py`: extracts ISIs from inter-trial intervals
 
 2. **Analyze Chaos**
-   - RQA, CD, LE, SampEn
+   - SE, CD, LE
 
 3. **Statistical Testing**
    - Phase-randomized surrogates
