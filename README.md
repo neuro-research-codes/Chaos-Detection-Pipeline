@@ -49,3 +49,9 @@ python metrics/rqa_rel.py
 pip install -r requirements.txt
 ```
 
+## 📜 Citation
+
+If this codebase contributes to your research, please cite or reference the GitHub repository:
+
+> Chitale, S.A. (2025). *Chaos Analysis on Neuronal ISI Sequences*.  
+> GitHub Repository: [https://github.com/saarth-chitale/Chaos-Detection-Pipeline](https://github.com/saarth-chitale/Chaos-Detection-Pipeline)
